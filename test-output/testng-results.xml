@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="19984" started-at="2017-03-13T14:27:24Z" finished-at="2017-03-13T14:27:44Z">
+  <suite name="Default suite" duration-ms="9744" started-at="2017-03-13T15:48:03Z" finished-at="2017-03-13T15:48:13Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="19984" started-at="2017-03-13T14:27:24Z" finished-at="2017-03-13T14:27:44Z">
-      <class name="com.selenium.selenium3Demo.Selenium3DemoTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.selenium.selenium3Demo.Selenium3DemoTest@59fa1d9b]" name="setup" is-config="true" duration-ms="4853" started-at="2017-03-13T19:57:24Z" finished-at="2017-03-13T19:57:29Z">
+    <test name="Default test" duration-ms="9744" started-at="2017-03-13T15:48:03Z" finished-at="2017-03-13T15:48:13Z">
+      <class name="com.selenium.selenium3Demo.Selenium3DemoChromeTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.selenium.selenium3Demo.Selenium3DemoChromeTest@59fa1d9b]" name="setup" is-config="true" duration-ms="1418" started-at="2017-03-13T21:18:03Z" finished-at="2017-03-13T21:18:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="seleniumTest()[pri:0, instance:com.selenium.selenium3Demo.Selenium3DemoTest@59fa1d9b]" name="seleniumTest" duration-ms="15099" started-at="2017-03-13T19:57:29Z" finished-at="2017-03-13T19:57:44Z">
+        <test-method status="PASS" signature="chromeTest()[pri:0, instance:com.selenium.selenium3Demo.Selenium3DemoChromeTest@59fa1d9b]" name="chromeTest" duration-ms="8306" started-at="2017-03-13T21:18:04Z" finished-at="2017-03-13T21:18:13Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- seleniumTest -->
-      </class> <!-- com.selenium.selenium3Demo.Selenium3DemoTest -->
+        </test-method> <!-- chromeTest -->
+      </class> <!-- com.selenium.selenium3Demo.Selenium3DemoChromeTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
